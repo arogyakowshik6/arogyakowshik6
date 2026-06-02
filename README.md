@@ -35,6 +35,7 @@ I'm a passionate Full Stack Developer with experience building responsive web ap
   <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js"/>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
   <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django"/>
+  
 </p>
 
 ### Databases
@@ -51,6 +52,7 @@ I'm a passionate Full Stack Developer with experience building responsive web ap
   <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code"/>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
   <img src="https://img.shields.io/badge/REST APIs-000000?style=for-the-badge&logo=postman&logoColor=white" alt="REST APIs"/>
+  <<img src="https://img.shields.io/badge/Py Charm-E627F8?style=for-the-badge&logo=pycharm&logoColor=white" alt="PyCharm"/>
 </p>
 
 ---
