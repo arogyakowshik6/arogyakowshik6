@@ -6,7 +6,7 @@
 ---
 
 <div align="center">
-<a href="https://github.com/arogyakowshik6"><h2>View My GitHub Portfolio</h2></a>
+<a href="https://github.com/arogyakowshik6">View My GitHub Portfolio</a>
 </div>
 
 ---
