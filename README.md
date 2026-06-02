@@ -1,7 +1,4 @@
-<!-- Profile Picture -->
-<p align="center">
-  <img src="#" alt="Profile Picture" width="150" />
-</p>
+
 
 <h1 align="center">Hi, I'm Kuppal Arogya Kowshik</h1>
 <h2 align="center">Full Stack Developer | React.js | Node.js | Python | SQL | JavaScript</h2>
@@ -9,7 +6,7 @@
 ---
 
 <div align="center">
-<a href="YOUR_GITHUB_LINK_HERE"><h2>View My GitHub Portfolio</h2></a>
+<a href="https://github.com/arogyakowshik6"><h2>View My GitHub Portfolio</h2></a>
 </div>
 
 ---
