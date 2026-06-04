@@ -6,7 +6,8 @@
 ---
 
 <div align="center">
-<a href="https://github.com/arogyakowshik6">View My GitHub Portfolio</a>
+   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" alt="Coding gif"/><br>
+    <a href="https://github.com/arogyakowshik6">View My GitHub Portfolio</a>
 </div>
 
 ---
@@ -28,8 +29,12 @@ I'm a passionate Front End Developer with experience building responsive web app
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React"/>
   <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap"/>
 </p>
-
-### Backend
+ Animation 
+<p align = "left">
+<img src="https://img.shields.io/badge/Framer%20Motion-black?style=for-the-badge&logo=framer&logoColor=white"/>
+<img src="https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=white"/> 
+</p>
+ Backend
 <p align="left">
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js"/>
   <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js"/>
