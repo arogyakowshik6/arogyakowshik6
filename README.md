@@ -1,6 +1,6 @@
 
 
-<h1 align="center">Hi, I'm Kuppal Arogya Kowshik</h1>
+<h1 align="center">Hi, I'm Kuppala Arogya Kowshik</h1>
 <h2 align="center">Front End Developer | React.js | Node.js | Python | SQL | JavaScript</h2>
 
 ---
