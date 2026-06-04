@@ -1,7 +1,7 @@
 
 
 <h1 align="center">Hi, I'm Kuppal Arogya Kowshik</h1>
-<h2 align="center">Full Stack Developer | React.js | Node.js | Python | SQL | JavaScript</h2>
+<h2 align="center">Front End Developer | React.js | Node.js | Python | SQL | JavaScript</h2>
 
 ---
 
@@ -13,7 +13,7 @@
 
 <h2 align="center">About Me</h2>
 <p align="center">
-I'm a passionate Full Stack Developer with experience building responsive web applications using modern technologies. I love working on projects that solve real-world problems, optimizing code, and continuously learning new tools and frameworks.  
+I'm a passionate Front End Developer with experience building responsive web applications using modern technologies. I love working on projects that solve real-world problems, optimizing code, and continuously learning new tools and frameworks.  
 </p>
 
 ---
@@ -79,10 +79,10 @@ I'm a passionate Full Stack Developer with experience building responsive web ap
 
 ## Connect With Me
 <p align="center">
-  <a href="YOUR_LINKEDIN_LINK_HERE" target="_blank">
+  <a href="https://www.linkedin.com/in/arogya-kowshik-5732ab387/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-007ACC?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="YOUR_EMAIL_HERE">
+  <a href="arogyakowshik6@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
   <a href="YOUR_TWITTER_LINK_HERE" target="_blank">
