@@ -5,6 +5,7 @@
 
 ---
 
+
 <div align="center">
    <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" alt="Coding gif"/><br>
     <a href="https://github.com/arogyakowshik6">View My GitHub Portfolio</a>
@@ -87,7 +88,7 @@ I'm a passionate Front End Developer with experience building responsive web app
   <a href="https://www.linkedin.com/in/arogya-kowshik-5732ab387/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-007ACC?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="arogyakowshik6@gmail.com" target = "_blank">
+  <a href="mailto:arogyakowshik6@gmail.com" target = "_blank">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
   <a href="YOUR_TWITTER_LINK_HERE" target="_blank">
