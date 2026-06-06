@@ -1,14 +1,12 @@
 
 
-<h1 align="center">Hi, I'm Kuppala Arogya Kowshik</h1>
-<h2 align="center">Front End Developer | React.js | Node.js | Python | SQL | JavaScript</h2>
-
----
-
+<h1 align="center"> <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Lavishly+Yours&size=35&duration=4999&pause=1000&color=D738F7&background=D2B8FF00&width=435&lines=Hi%2C+I'm+Kuppala+Arogya+Kowshik" alt="Typing SVG" /></a></h1>
+<h2 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Lavishly+Yours&size=31&duration=4999&pause=1000&color=D738F7&background=D2B8FF00&width=435&lines=Front+End+Developer+%7C+React.js+%7C+Python+;%7C+SQL+%7C+JavaScript" alt="Typing SVG" /></a></h2>
 
 <div align="center">
    <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" alt="Coding gif"/><br>
-    <a href="https://github.com/arogyakowshik6">View My GitHub Portfolio</a>
+    <a href="https://github.com/arogyakowshik6"> <img width="30" height="30" alt="image" src="https://github.com/user-attachments/assets/53b97ad7-0578-46e4-9c8a-223677447956" />
+GitHub Portfolio</a>
 </div>
 
 ---
@@ -21,8 +19,7 @@ I'm a passionate Front End Developer with experience building responsive web app
 ---
 
 <h2 align="center">Skills & Tools</h2>
-
-### Frontend
+<h1 align = "center">Frontend </h1>
 <p align="CENTER">
    <img width="50" height="50" alt="HTML" src="https://github.com/user-attachments/assets/bda93c5f-ee2d-4858-a943-9c0d9026c541" />
    <img width="50" height="50" alt="CSS" src="https://github.com/user-attachments/assets/584eed6d-3eb6-4097-8136-6d5464fe5270" />
@@ -31,35 +28,41 @@ I'm a passionate Front End Developer with experience building responsive web app
    <img width="50" height="50" alt="VUE.JS" src="https://github.com/user-attachments/assets/5c7bdf2d-2262-4c79-b2fb-aeb7fde9e13a" />
    <img width="50" height="50" alt="REDUX" src="https://github.com/user-attachments/assets/4e6f8aeb-f891-43cb-b7cd-c0954811495f" />
 </p>
- Animation 
-<p align = "left">
-<img src="https://img.shields.io/badge/Framer%20Motion-black?style=for-the-badge&logo=framer&logoColor=white"/>
+<h1 align = "center">Animation</h1>
+<p align = "center">
+<img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/650cdf98-7a1d-4e33-a740-7b97220d86f3" />
 <img src="https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=white"/> 
 </p>
- Backend
-<p align="left">
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js"/>
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django"/>
-  
+ <h1 align = "center">Backend </h1>
+<p align="center">
+  <img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/a006f401-a6f5-4c54-a6fb-6fa0e32c7163" />
+  <img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/ca6e8653-c699-471f-a245-8c7f8fc46814" />
+  <img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/3152128b-1a0c-4bd1-b65d-f3ab9344e9ba" />
+  <img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/fe5e8d62-bdff-473b-a026-4f0a23a1d289" />
 </p>
 
-### Databases
-<p align="left">
-  <img src="https://img.shields.io/badge/SQL-00758F?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
+<h1 align = "center">Databases</h1>
+<p align="center">
+<img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/4bf6fb87-ee66-422e-a7a0-e3b283626d9d" />
+<img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/27da88cb-1d2b-474b-b2ac-6fc980ce402f" />
+<img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/09dcb5e6-a822-4db2-8c03-d9a1480ff686" />
 </p>
 
-### Tools & Platforms
-<p align="left">
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
-  <img src="https://img.shields.io/badge/REST APIs-000000?style=for-the-badge&logo=postman&logoColor=white" alt="REST APIs"/>
-  <img src="https://img.shields.io/badge/Py Charm-E627F8?style=for-the-badge&logo=pycharm&logoColor=white" alt="PyCharm"/>
+<h1 align = "center">Tools & platforms</h1>
+<p align="center">
+  <img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/dae6fb98-d5f7-4844-89b1-fc54ea6470db" />
+<img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/1abb55d0-f6cc-4fe5-97de-1c4602e4ed09" />
+<img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/e6fd2130-7777-41c1-afe6-de68692e4a9c" />
+<img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/c159f1c1-72ea-4ad6-99a0-29ae68d424bc" />
+<img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/d7d2fdfe-8025-421d-866b-78e2e6491334" />
+</p>
+
+<h1 align = "center">Cloud Technologies</h1>
+<p align = "center">
+<img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/4efb671f-5208-4c58-85a6-975bdd95f200" />
+<img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/8becb16c-b4f0-4d7a-b893-4350d785a41b" />
+
+   
 </p>
 
 ---
@@ -87,13 +90,15 @@ I'm a passionate Front End Developer with experience building responsive web app
 ## Connect With Me
 <p align="center">
   <a href="https://www.linkedin.com/in/arogya-kowshik-5732ab387/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-007ACC?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    <img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/6d8e3b0e-c4b2-462f-8d37-7ba50643203e" />
+
   </a>
   <a href="mailto:arogyakowshik6@gmail.com" target = "_blank">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+   <img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/a41146a8-a53f-4368-822d-75003a530c84" />
+
   </a>
   <a href="YOUR_TWITTER_LINK_HERE" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
+    <img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/4cb8f3ea-943e-4003-8e8e-be49d4f77974" />
   </a>
 </p>
 
