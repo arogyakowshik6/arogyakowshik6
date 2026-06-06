@@ -91,14 +91,12 @@ I'm a passionate Front End Developer with experience building responsive web app
 <p align="center">
   <a href="https://www.linkedin.com/in/arogya-kowshik-5732ab387/" target="_blank">
     <img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/6d8e3b0e-c4b2-462f-8d37-7ba50643203e" />
-
   </a>
   <a href="mailto:arogyakowshik6@gmail.com" target = "_blank">
    <img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/a41146a8-a53f-4368-822d-75003a530c84" />
-
   </a>
   <a href="YOUR_TWITTER_LINK_HERE" target="_blank">
-    <img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/4cb8f3ea-943e-4003-8e8e-be49d4f77974" />
+<img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/9bbe41ed-2a1e-4a67-b523-94405f430e83" />
   </a>
 </p>
 
