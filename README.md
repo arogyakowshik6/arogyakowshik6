@@ -23,12 +23,13 @@ I'm a passionate Front End Developer with experience building responsive web app
 <h2 align="center">Skills & Tools</h2>
 
 ### Frontend
-<p align="left">
-  <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML"/>
-  <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css&logoColor=white" alt="CSS"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React"/>
-  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap"/>
+<p align="CENTER">
+   <img width="50" height="50" alt="HTML" src="https://github.com/user-attachments/assets/bda93c5f-ee2d-4858-a943-9c0d9026c541" />
+   <img width="50" height="50" alt="CSS" src="https://github.com/user-attachments/assets/584eed6d-3eb6-4097-8136-6d5464fe5270" />
+   <img width="50" height="50" alt="JAVASCRIPT" src="https://github.com/user-attachments/assets/1e5b646f-a56c-488a-8701-f9cdbe20d77e" />
+   <img width="50" height="50" alt="REACT" src="https://github.com/user-attachments/assets/e65159f8-3c61-4700-a096-329875f581aa" />
+   <img width="50" height="50" alt="VUE.JS" src="https://github.com/user-attachments/assets/5c7bdf2d-2262-4c79-b2fb-aeb7fde9e13a" />
+   <img width="50" height="50" alt="REDUX" src="https://github.com/user-attachments/assets/4e6f8aeb-f891-43cb-b7cd-c0954811495f" />
 </p>
  Animation 
 <p align = "left">
